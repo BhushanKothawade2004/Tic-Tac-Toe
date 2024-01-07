@@ -67,3 +67,27 @@ body {
 .hide {
     display: none;
 }
+.tie-msg {
+    color: #ffffc7;
+    font-size: 15vmin;
+}
+.tie-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 6rem;
+}
+.new-hide {
+    display: none;
+}
+.new-game {
+    margin-top: 2rem;
+    padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #191913;
+    color: white;
+}
